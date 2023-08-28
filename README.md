@@ -1,2 +1,3 @@
 # TestRepository
-new repository Zaharie Matei
+github='Hello, This is my first time using Github'
+print(github)
